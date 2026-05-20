@@ -20,4 +20,5 @@ A Flutter app to track your daily coffee intake and stay within your limit.
 3. Run `flutter run -d chrome`
 
 ## Screenshots
-(add a screenshot of your app here)
+! [Coffee Tracker] (android app)
+
