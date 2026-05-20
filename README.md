@@ -1,16 +1,23 @@
-# coffee_tracker
+## Coffee Tracker ☕
 
-A new Flutter project.
+A Flutter app to track your daily coffee intake and stay within your limit.
 
-## Getting Started
+## Features
+- Track cups of coffee throughout the day
+- Set a custom daily limit with a slider
+- Animated coffee glass that fills up as you drink
+- Warning when you hit your limit
+- Reset button to start fresh
+- Runs on both; web and android
 
-This project is a starting point for a Flutter application.
+## Built With
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run
+1. Clone the repo
+2. Run `flutter pub get`
+3. Run `flutter run -d chrome`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+(add a screenshot of your app here)
